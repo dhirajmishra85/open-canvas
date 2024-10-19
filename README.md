@@ -44,7 +44,7 @@ After that, copy the `.env.example` file contents into `.env` and set the requir
 # LangSmith tracing (optional, but recommended.)
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=
-
+ZOOM_AUTH_ID=
 # LLM API keys
 # Anthropic used for reflection
 ANTHROPIC_API_KEY=
